@@ -1,0 +1,21 @@
+
+.btn-mod{
+    transition: all ease-in-out .2s;
+}
+.btn-mod:hover{
+    cursor: pointer;
+    color: rgb(0, 94, 170)!important;
+}
+
+.btn-delete{
+    transition: all ease-in-out .2s;
+}
+.btn-delete:hover{
+    cursor: pointer;
+    color: rgb(141, 0, 0)!important;
+}
+
+
+tr:hover{
+    background-color: rgba(190, 190, 190, 0.295);
+}
